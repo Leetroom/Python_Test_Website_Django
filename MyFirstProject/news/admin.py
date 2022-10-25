@@ -18,3 +18,4 @@ class CategoryAdmin(admin.ModelAdmin):
 admin.site.register(News, NewsAdmin)
 admin.site.register(Category, CategoryAdmin)
 # Register your models here.
+#work with admin panel
